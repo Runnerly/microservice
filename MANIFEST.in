@@ -1,0 +1,4 @@
+include requirements.txt
+recursive-include myservice *.ini
+recursive-include docs *.rst *.png *.svg *.css *.html conf.py
+prune docs/build/*

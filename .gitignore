@@ -1,0 +1,12 @@
+*.un~
+__pycache__
+.tox
+.coverage
+.Python
+myservice.egg-info
+docs/build/
+src
+bin
+lib
+include
+.cache
