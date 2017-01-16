@@ -8,3 +8,5 @@ Welcome to myservice's documentation!
 
 .. literalinclude:: ../../myservice/views/home.py
    :lines: 6-11
+   :language: python
+   :emphasize-lines: 6
