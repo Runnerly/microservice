@@ -6,6 +6,8 @@ home = Blueprint('home', __name__)
 
 @home.route('/')
 def index():
-    """Index view.
+    """Home view.
+
+    This view will return an empty JSON mapping.
     """
     return {}
