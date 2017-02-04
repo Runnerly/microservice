@@ -1,1 +1,1 @@
--e git+https://github.com/tarekziade/flakon.git#egg=flakon
+-e git+https://github.com/Runnerly/flakon.git#egg=flakon
